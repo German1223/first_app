@@ -1,0 +1,27 @@
+.dialogs{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+ .dialogItems{
+    display: grid;
+    padding: 10px;
+}
+.dialog{
+    
+    flex-direction: column;
+}
+.dial{
+    color: #6B1153;
+    text-decoration: none;
+    padding: 5px;
+    flex-direction: column;
+    
+}
+.messages{
+    padding:10px;
+    
+}
+/*
+.message{
+
+} */ 

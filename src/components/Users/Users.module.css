@@ -1,0 +1,19 @@
+.flex{
+    display: flex;
+}
+.userPhoto{
+    margin: 10px;
+    width: 120px;
+    height: 100px;
+}
+.margin_button{
+    margin-left:10px;
+}
+.margin_text{
+    margin:10px;
+}
+
+.currentPage{
+    color:red;
+    font-weight: bold;
+}
